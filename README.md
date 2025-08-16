@@ -99,7 +99,7 @@ I'm Praveen, a passionate developer, AI/ML explorer, and relentless problem solv
 - 📧 **Email:** praveenreddygoli8@gmail.com
 - 🐦 [GitHub](https://github.com/Praveen8104)
 - 💼 [LinkedIn](https://www.linkedin.com/in/praveen-reddy-a9b786286/)
-- 🌐 [Portfolio]((https://praveen8104.github.io/my-portfolio/))
+- 🌐 [Portfolio](https://praveen8104.github.io/my-portfolio/)
 
 ---
 
