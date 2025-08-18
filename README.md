@@ -16,9 +16,9 @@ I'm a Full-Stack Developer specializing in the MERN stack and a passionate stude
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c" />
     <br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,springboot,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
     <br>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,docker,git" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git" />
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,azure,github" />
   </a>
