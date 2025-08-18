@@ -41,7 +41,7 @@ I'm a Full-Stack Developer specializing in the MERN stack and a passionate stude
           <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
         </p>
         <div align="center">
-          <a href="[your-repo-link]"><b>View Code →</b></a>
+          <a href="https://github.com/VinayKishore25/Connect_Frontend"><b>View Code →</b></a>
         </div>
       </div>
     </td>
