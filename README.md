@@ -28,43 +28,30 @@ I'm a Full-Stack Developer specializing in the MERN stack and a passionate stude
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Connect App - Safety & Aid Platform</h3>
-      <div align="center">
-        <p>A comprehensive mobile app featuring a women’s safety module (SOS, fake call, geofencing) and a real-time emergency services hub for blood donation and ambulance tracking.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-        </p>
-        <div align="center">
-          <a href="https://github.com/VinayKishore25/Connect_Frontend"><b>View Code →</b></a>
-        </div>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Generative AI Resume Builder</h3>
-      <div align="center">
-        <p>A web application that leverages the Gemini API to auto-generate professional resume content, reducing creation time by 75%. Features styling, templates, and multiple export options.</p>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/Gemini%20API-4285F4?logo=google-cloud&logoColor=white" />
-        </p>
-        <div align="center">
-          <a href="[your-repo-link]"><b>View Code →</b></a>
-          &nbsp;&nbsp;|&nbsp;&nbsp;
-          <a href="[your-live-demo-link]"><b>Live Demo →</b></a>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
+- **Connect App**  
+  *React Native, Spring Boot, PostgreSQL*  
+  Women's safety module (SOS alerts, fake call, live location), real-time blood donation, ambulance tracking.  
+  [View Code](https://github.com/VinayKishore25/Connect_Frontend)
+
+- **Resume Builder**  
+  *HTML, CSS, JavaScript, Gemini API*  
+  Build resumes, enhance descriptions, ATS-friendly templates, export to PDF/Word/JSON.  
+  [View Code](https://github.com/Praveen8104/Resume-Builder)
+
+- **Infrastructure Tracker**  
+  *React, Node.js, MongoDB*  
+  Asset management for college premises, stock/failure detection, dashboards, role-based access.  
+  *(Code link not provided)*
+
+- **Hostel Hub**  
+  *React Native, Node.js, MongoDB*  
+  Hostel management app, maintenance/outpass requests, dashboards, notice board.  
+  [View Code](https://github.com/Praveen8104/Hostel-Hub)
+
+- **Smart Codebase**  
+  *Node.js, Express.js, Gemini API*  
+  AI-powered code search, commit/version control, modern UI.  
+  [View Code](https://github.com/Praveen8104/GitHub) | [Live Demo](https://myaigithub.onrender.com)
 
 ---
 
