@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const contactForm = document.getElementById('contact-form');
     contactForm.addEventListener('submit', function (event) {
         event.preventDefault();
-        const serviceID = 'service_rz8fqfb';
+        const serviceID = 'service_p5m4vve';
         const templateID = 'template_infw6ni';
         const autoReplyTemplateID = 'template_96eu23u';
         const submitButton = contactForm.querySelector('button[type="submit"]');
